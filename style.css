@@ -195,7 +195,7 @@ footer{
 /* Sidebar */
 
 .sidebar-wrapper{
-  margin-botton:1.8em;
+  margin-bottom:1.8em;
   padding:10px;
 }
 
@@ -313,7 +313,7 @@ footer{
 .kiji-list{
   margin:0 0 15px;
   border:solid 1px #ddd;
-  backgroud-color:#fff;
+  background-color:#fff;
 }
 
 .kiji-list a{
@@ -404,7 +404,7 @@ footer{
 }
 
 .pagination li a:hover{
-  color:#fff:
+  color:#fff;
   background-color:#464646;
 }
 
@@ -496,7 +496,7 @@ footer{
     font-size:.95pm;
   }
   .kiji-date{
-    margin-botton:0;
+    margin-bottom:0;
   }
   .kiji-list p{
     visibility:hidden;
